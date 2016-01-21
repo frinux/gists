@@ -1,0 +1,16 @@
+{
+  "name": "arduino_ide_config",
+  "description": "Arduino IDE configuration files and library dependencies",
+  "version": "1.0",
+  "authors": [
+    { "name": "frinux" }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jeelib": "https://github.com/jcw/jeelib.git",
+    "RF24Mesh": "https://github.com/TMRh20/RF24Mesh.git",
+    "QueueArray": "http://playground.arduino.cc/uploads/Code/QueueArray.zip",
+    "MemoryFree": "https://github.com/maniacbug/MemoryFree.git",
+    "DHT22": "https://github.com/markruys/arduino-DHT.git"
+  }
+}
